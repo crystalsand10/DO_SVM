@@ -1,0 +1,22 @@
+2013, June 23 
+
+1. Set up git.
+
+2. Aim to identify the ~12000 sites that S. Humphrey used to get the negative training sets. 
+
+2a. using data mmc4.xlsx 
+
+2b. cut -f58-81  mmc4.txt >outfile 
+
+
+2013, Jun 24 
+
+2c. Got the original data and tried to identify those for which times were present for atleast the 8 time points. Number was very low ~ 3500. (?)
+
+2d. Got the 12289 across 8 time points from mmc3.txt;
+		cut -f8-15 mmc3.txt >outfile_data3
+
+
+
+3. PSSM obtained from Figure 4.2 of phd thesis
+

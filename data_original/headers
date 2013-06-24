@@ -1,0 +1,184 @@
+     1	LY_1.Insulin
+     2	LY_1.Insulin.LY
+     3	LY_2.Insulin
+     4	LY_2.Insulin.LY
+     5	LY_3.Insulin
+     6	LY_3.Insulin.LY
+     7	MK_1.Insulin
+     8	MK_1.Insulin.MK
+     9	MK_2.Insulin
+    10	MK_2.Insulin.MK
+    11	MK_3.Insulin
+    12	MK_3.Insulin.MK
+    13	TCX_0.15sec
+    14	TCX_0.30sec
+    15	TCX_0.1min
+    16	TCX_0.2min
+    17	TCX_0.5min
+    18	TCX_0.10min
+    19	TCX_0.20min
+    20	TCX_0.60min
+    21	TCX_1.15sec
+    22	TCX_1.30sec
+    23	TCX_1.1min
+    24	TCX_1.2min
+    25	TCX_1.5min
+    26	TCX_1.10min
+    27	TCX_1.20min
+    28	TCX_1.60min
+    29	TCX_1P.15sec
+    30	TCX_1P.30sec
+    31	TCX_1P.1min
+    32	TCX_1P.2min
+    33	TCX_1P.5min
+    34	TCX_1P.10min
+    35	TCX_1P.20min
+    36	TCX_1P.60min
+    37	TCX_2.15sec
+    38	TCX_2.30sec
+    39	TCX_2.1min
+    40	TCX_2.2min
+    41	TCX_2.5min
+    42	TCX_2.10min
+    43	TCX_2.20min
+    44	TCX_2.60min
+    45	LY_1.Occupancy.Basal
+    46	LY_1.Occupancy.Insulin
+    47	LY_1.Occupancy.Insulin.LY
+    48	LY_2.Occupancy.Basal
+    49	LY_2.Occupancy.Insulin
+    50	LY_2.Occupancy.Insulin.LY
+    51	LY_3.Occupancy.Basal
+    52	LY_3.Occupancy.Insulin
+    53	LY_3.Occupancy.Insulin.LY
+    54	MK_1.Occupancy.Basal
+    55	MK_1.Occupancy.Insulin
+    56	MK_1.Occupancy.Insulin.MK
+    57	MK_2.Occupancy.Basal
+    58	MK_2.Occupancy.Insulin
+    59	MK_2.Occupancy.Insulin.MK
+    60	MK_3.Occupancy.Basal
+    61	MK_3.Occupancy.Insulin
+    62	MK_3.Occupancy.Insulin.MK
+    63	TCX_0.Occupancy.Basal1
+    64	TCX_0.Occupancy.Basal2
+    65	TCX_0.Occupancy.Basal3
+    66	TCX_0.Occupancy.Basal4
+    67	TCX_0.Occupancy.15sec
+    68	TCX_0.Occupancy.30sec
+    69	TCX_0.Occupancy.1min
+    70	TCX_0.Occupancy.2min
+    71	TCX_0.Occupancy.5min
+    72	TCX_0.Occupancy.10min
+    73	TCX_0.Occupancy.20min
+    74	TCX_0.Occupancy.60min
+    75	TCX_1.Occupancy.Basal1
+    76	TCX_1.Occupancy.Basal2
+    77	TCX_1.Occupancy.Basal3
+    78	TCX_1.Occupancy.Basal4
+    79	TCX_1.Occupancy.15sec
+    80	TCX_1.Occupancy.30sec
+    81	TCX_1.Occupancy.1min
+    82	TCX_1.Occupancy.2min
+    83	TCX_1.Occupancy.5min
+    84	TCX_1.Occupancy.10min
+    85	TCX_1.Occupancy.20min
+    86	TCX_1.Occupancy.60min
+    87	TCX_1P.Occupancy.Basal1
+    88	TCX_1P.Occupancy.Basal2
+    89	TCX_1P.Occupancy.Basal3
+    90	TCX_1P.Occupancy.Basal4
+    91	TCX_1P.Occupancy.15sec
+    92	TCX_1P.Occupancy.30sec
+    93	TCX_1P.Occupancy.1min
+    94	TCX_1P.Occupancy.2min
+    95	TCX_1P.Occupancy.5min
+    96	TCX_1P.Occupancy.10min
+    97	TCX_1P.Occupancy.20min
+    98	TCX_1P.Occupancy.60min
+    99	TCX_2.Occupancy.Basal1
+   100	TCX_2.Occupancy.Basal2
+   101	TCX_2.Occupancy.Basal3
+   102	TCX_2.Occupancy.Basal4
+   103	TCX_2.Occupancy.15sec
+   104	TCX_2.Occupancy.30sec
+   105	TCX_2.Occupancy.1min
+   106	TCX_2.Occupancy.2min
+   107	TCX_2.Occupancy.5min
+   108	TCX_2.Occupancy.10min
+   109	TCX_2.Occupancy.20min
+   110	TCX_2.Occupancy.60min
+   111	Diagnostic.peak
+   112	Amino.Acid
+   113	Complete Time-Series
+   114	Position
+   115	AKT1 prediction score
+   116	AKT1 delta score
+   117	AKT1 Pareto rank
+   118	mTOR prediction score
+   119	mTOR delta score
+   120	mTOR Pareto rank
+   121	PKA prediction score
+   122	PKA delta score
+   123	PKA Pareto rank
+   124	MK t
+   125	MK pvalue
+   126	LY t
+   127	LY pvalue
+   128	Insulin t
+   129	Insulin pvalue
+   130	1-AUC
+   131	Position.in.peptide
+   132	Charge
+   133	m.z
+   134	Mass.Error..ppm.
+   135	Localization.Prob
+   136	Score.Diff
+   137	PEP
+   138	Score
+   139	Phospho..STY..Probabilities
+   140	Phospho..STY..Score.Diffs
+   141	Uniprot
+   142	Proteins
+   143	Phosphopeptide ID
+   144	Positions
+   145	Leading.Proteins
+   146	Protein
+   147	Protein.Descriptions
+   148	id
+   149	Protein.Group.IDs
+   150	Modified.Sequence
+   151	Protein.Names
+   152	Gene.Names
+   153	Sequence.Window
+   154	corrected.seq.window
+   155	Cluster A
+   156	Cluster B
+   157	Cluster C
+   158	Cluster D
+   159	Cluster E
+   160	Cluster F
+   161	Cluster G
+   162	Cluster H
+   163	Cluster I
+   164	Cluster J
+   165	Cluster K
+   166	Cluster L
+   167	Cluster M
+   168	Cluster N
+   169	Cluster O
+   170	Cluster P
+   171	Cluster Q
+   172	Cluster R
+   173	Cluster 1
+   174	Cluster 3
+   175	Cluster 4
+   176	Cluster 5
+   177	Cluster 6
+   178	Cluster 7
+   179	Cluster 11
+   180	Cluster 13
+   181	Cluster 16
+   182	Cluster 21
+   183	Cluster 25
+   184	Cluster 30
